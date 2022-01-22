@@ -18,3 +18,5 @@ pip install -r requirements.txt
 ```py
 flask run
 ```
+
+Happy coding
